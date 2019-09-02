@@ -8,5 +8,4 @@ Saiba mais no link: [www.google.com](http://www.google.com)
 
 Quer saber mais? Ajude com um café.
 
-fucks
-aa
+Contribua colaborando conosco.
